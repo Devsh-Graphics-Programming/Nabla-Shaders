@@ -8,11 +8,11 @@ This AST can be compiled, by a variety of backends, into beautiful name mangled 
 
 This project is developed to be used by the [Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) Rendering Framework, however after realizing its potential we decided to make develop it in a standalone repository.
 
-##The cool thing is that we don't replace your existing Shader Development toolchain, we merely augment it
+## The cool thing is that we don't replace your existing Shader Development toolchain, we merely augment it
 
 Same way how you can link C++ to C or mix with other languages (if you only know the name mangled entry points), you can `#include` or otherwise concatenate the output of our compiler backends with regular dumb GLSL (or HLSL) code.
 
-##PROJECT IS CURRENTLY IN CONCEPTUALIZATION STAGE, DO NOT EXPECT TO BE ABLE TO USE IT.**
+# PROJECT IS CURRENTLY IN CONCEPTUALIZATION STAGE, DO NOT EXPECT TO BE ABLE TO USE IT
 
 # Features compared to GLSL
 
